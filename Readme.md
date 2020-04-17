@@ -11,4 +11,4 @@ Because of the complexity of the command set, ConMan requires two connectors, Co
 
 ### Positions
 
-ConMan uses absolute positions for nearly all operations, so it is reccomended to use the Location Combinator from [Utility Combinators](https://mods.factorio.com/mod/utility-combinators) for a location reference. ConMan does not currently support any operations across surfaces. When an operation requires one position arguement, it is supplied on `X` and `Y`. When an operation requires two position arguments or a bounding box, the first point is supplied on `X` and `Y` and the second on `U` and `V`.
+ConMan uses absolute positions for nearly all operations, so it is reccomended to use the Location Combinator from [Utility Combinators](https://mods.factorio.com/mod/utility-combinators) for a location reference. ConMan does not currently support any operations across surfaces. When an operation requires one position arguement, it is supplied on `X` and `Y`. When an operation requires two position arguments or a bounding box, the first point is supplied on `X` and `Y` and the second on `U` and `V`. spam
